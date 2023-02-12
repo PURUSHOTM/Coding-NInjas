@@ -24,7 +24,6 @@ You do not need to print anything; it has already been taken care of. Just imple
 
 Where 'M' is the size of the singly linked list.
 
-Time Limit: 1 sec
 Sample Input 1 :
 2
 3 4 5 2 6 1 9 -1
